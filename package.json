@@ -1,0 +1,17 @@
+{
+  "name": "alpha-shop",
+  "version": "1.0.0",
+  "description": "A dark-themed e-commerce website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6"
+  }
+}
